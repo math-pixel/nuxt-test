@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-slate-300 w-screen h-screen flex justify-content ">
-    <NuxtPage class=" bg-purple-100"/>
+  <div class="group bg-[#001B2E] w-screen h-screen flex justify-center content-center">
+    <NuxtPage class="text-4xl"/>
 
-  </div>
+  </div>  
 </template>
